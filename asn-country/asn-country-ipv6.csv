@@ -7272,6 +7272,7 @@
 2001:df2:cec0::,2001:df2:cec0:ffff:ffff:ffff:ffff:ffff,PK
 2001:df2:cf40::,2001:df2:cf40:ffff:ffff:ffff:ffff:ffff,IN
 2001:df2:cf80::,2001:df2:cf80:ffff:ffff:ffff:ffff:ffff,MY
+2001:df2:cfc0::,2001:df2:cfc0:ffff:ffff:ffff:ffff:ffff,IN
 2001:df2:d000::,2001:df2:d000:ffff:ffff:ffff:ffff:ffff,HK
 2001:df2:d080::,2001:df2:d080:ffff:ffff:ffff:ffff:ffff,ID
 2001:df2:d100::,2001:df2:d101:ffff:ffff:ffff:ffff:ffff,IN
@@ -12460,6 +12461,8 @@
 2401:2500::,2401:2500:ffff:ffff:ffff:ffff:ffff:ffff,JP
 2401:2520::,2401:2520:ffff:ffff:ffff:ffff:ffff:ffff,AU
 2401:2540::,2401:2540:ffff:ffff:ffff:ffff:ffff:ffff,JP
+2401:2560::,2401:2560:ffff:ffff:ffff:ffff:ffff:ffff,IN
+2401:25a0::,2401:25a0:ffff:ffff:ffff:ffff:ffff:ffff,IN
 2401:25c0::,2401:25c0:ffff:ffff:ffff:ffff:ffff:ffff,JP
 2401:2600::,2401:2600:ffff:ffff:ffff:ffff:ffff:ffff,CN
 2401:2640::,2401:2640:ffff:ffff:ffff:ffff:ffff:ffff,HK
@@ -26570,7 +26573,6 @@
 2620:11f:7000::,2620:11f:700f:ffff:ffff:ffff:ffff:ffff,US
 2620:11f:8000::,2620:11f:80ff:ffff:ffff:ffff:ffff:ffff,CA
 2620:11f:9000::,2620:11f:900f:ffff:ffff:ffff:ffff:ffff,US
-2620:11f:a000::,2620:11f:a00f:ffff:ffff:ffff:ffff:ffff,US
 2620:11f:b000::,2620:11f:b00f:ffff:ffff:ffff:ffff:ffff,US
 2620:11f:c000::,2620:11f:c0ff:ffff:ffff:ffff:ffff:ffff,US
 2620:11f:d000::,2620:11f:d00f:ffff:ffff:ffff:ffff:ffff,US
