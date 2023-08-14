@@ -2,7 +2,7 @@ name: delete all histories by rebase
 
 on:
   schedule:
-    - cron: '32 6 12,27 * *'
+    - cron: '32 15 12,27 * *'
 
 jobs:
   release:
