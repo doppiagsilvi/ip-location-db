@@ -19222,6 +19222,9 @@
 2602:815:8000::,2602:815:80ff:ffff:ffff:ffff:ffff:ffff,US
 2602:815:9000::,2602:815:900f:ffff:ffff:ffff:ffff:ffff,CA
 2602:815:a000::,2602:815:a00f:ffff:ffff:ffff:ffff:ffff,CA
+2602:815:b000::,2602:815:b00f:ffff:ffff:ffff:ffff:ffff,US
+2602:fa3a::,2602:fa3a:ff:ffff:ffff:ffff:ffff:ffff,CA
+2602:fa3b::,2602:fa3b:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:fa3c::,2602:fa3c:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:fa3d::,2602:fa3d:fff:ffff:ffff:ffff:ffff:ffff,US
 2602:fa3e::,2602:fa3e:fff:ffff:ffff:ffff:ffff:ffff,US
@@ -23704,6 +23707,7 @@
 2607:6280::,2607:6280:ffff:ffff:ffff:ffff:ffff:ffff,US
 2607:62c0::,2607:62c0:ffff:ffff:ffff:ffff:ffff:ffff,US
 2607:6300::,2607:6300:ffff:ffff:ffff:ffff:ffff:ffff,US
+2607:6340::,2607:6340:ffff:ffff:ffff:ffff:ffff:ffff,US
 2607:6380::,2607:6380:ffff:ffff:ffff:ffff:ffff:ffff,US
 2607:6400::,2607:6400:ffff:ffff:ffff:ffff:ffff:ffff,US
 2607:6480::,2607:6480:ffff:ffff:ffff:ffff:ffff:ffff,US
